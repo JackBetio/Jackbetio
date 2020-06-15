@@ -1,0 +1,22 @@
+{
+  "name": "provably-fair-verifier",
+  "version": "1.0.0",
+  "description": Jackbet provably fair verifier",
+  "main": "bundle",
+  "author": "JackBet",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackbetio/provably-fair-verifier.git"
+  },
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Jackbetio/provably-fair-verifier/issues"
+  },
+  "homepage": "https://github.com/Jackbetio/provably-fair-verifier#readme"
+}
